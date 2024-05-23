@@ -1,0 +1,93 @@
+.container {
+    margin: 0 auto ;
+    width: 960px;
+    }
+
+    body {
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+        sans-serif;
+        line-height: 1.6;
+         }
+         
+         
+         p {
+            font-family: "Lucida Grande", "Lucida Sans Unicode", "Verdana",
+            "sans-serif";
+            line-height: 1.8;
+             }
+             .place img {
+                border: 1px solid #7E9F19;
+                float: left;
+                margin: 0px 0px 0px 0;
+                padding: 5px;
+                width: 300px;
+                }
+                h2, h3, h4 {
+                  color: #000000;
+
+                  text-decoration: none;
+                }
+                .place {
+                  background-color: #ffffff;
+                  border: 1px solid #ffffff;
+                  border-color: #000000  #000000 #000000;
+                  margin-bottom: 20px;
+                  padding: 20px;
+                }
+               h1 {
+                  color: #7E9F19;
+                  text-decoration: none;
+               }
+               body {
+                  background: #ffdcb5 url(images/noise.png);
+                  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+                  sans-serif;
+                  line-height: 1.6;
+               }
+               .place h2, h3, h4 {
+                  border-bottom: 1px dashed #7E9F19;
+                  margin: 2;
+                  }
+                  .footer {
+                     font-size: 12px;
+                     text-align: center;
+                     }
+                     .place a {
+                        color: #2C88A7;
+                        font-weight: bold;
+                        }
+                        .sidenote {
+                           background-color: #FFFBE4;
+                           border: 1px solid #C9BC8F;
+                           padding: 10px;
+                           }
+                           .sidenote h3 {
+                           font-size: 14px;
+                           margin-top: 0;
+                           }
+                           .sidenote ol {
+                           font-size: 12px;
+                           }
+                           .sidenote {
+                              background-color: #FFFBE4;
+                              border: 1px solid #C9BC8F;
+                              float: right;
+                              padding: 10px;
+                              width: 260px;
+                              margin-bottom: 20px;
+                              }
+                              .sidenote h4 {
+                              font-size: 14px;
+                              margin-top: 0;
+                              }
+                              .sidenote ol {
+                              font-size: 12px;
+                              }
+                              .clear {
+                                 clear: both;
+                                 }
+
+                                 .places {
+                                    float: left;
+                                    width: 660px;
+                                    }
